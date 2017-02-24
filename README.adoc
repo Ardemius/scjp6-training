@@ -1,0 +1,8 @@
+= Sun Certified Java Programmer 6 Training
+
+My Java test classes to prepare for the SCJP 6 certification.
+
+
+
+
+
